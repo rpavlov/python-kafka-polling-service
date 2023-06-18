@@ -1,0 +1,7 @@
+python-dotenv
+requests
+kafka-python
+
+#development
+pre-commit
+pytest
